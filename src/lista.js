@@ -5,7 +5,19 @@ const lista = [
 ];
 
 function getLista(){
+    return lista;
+}
+
+function adicionaNaLista(){
 
 }
 
-export {getLista};
+function removeDaLista(){
+
+}
+
+function limpaLista(){
+
+}
+
+export {getLista, adicionaNaLista, removeDaLista, limpaLista};
